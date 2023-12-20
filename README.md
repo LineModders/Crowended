@@ -14,7 +14,7 @@ All trusted by Devius Studios
 # Author's
 - Devius Studios
 
-  Jacob Welshell (synth)
+  SynthouS
 - TypedQue
 
   Keshawsk
