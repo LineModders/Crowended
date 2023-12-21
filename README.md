@@ -15,6 +15,6 @@ All trusted by Devius Studios
 - Devius Studios
 
   SynthouS
-- TypedQue
+- LineModders
 
   Keshawsk
