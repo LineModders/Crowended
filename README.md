@@ -1,6 +1,6 @@
 # HM2MP
 ![Logo](Hm2MpLogo.png)
-A unofficial multiplayer ramade Hotline Miami 2 in Unity Engine
+A unofficial multiplayer remade Hotline Miami 2 in Unity Engine
 
 # Installing
 You can install this game on [Hm2Mp Site](https://hm2mp.github.io)
